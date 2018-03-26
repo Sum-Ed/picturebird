@@ -1,8 +1,8 @@
-# picturebird
-
-■用途
-Twitterタイムラインの画像ツイートのみを自動的にふぁぼします。
-
+# picturebird  
+  
+■用途  
+Twitterタイムラインの画像ツイートのみを自動的にふぁぼします。  
+  
 ■使用準備
 https://apps.twitter.com/
 から以下の4つを取得し追加してください。
